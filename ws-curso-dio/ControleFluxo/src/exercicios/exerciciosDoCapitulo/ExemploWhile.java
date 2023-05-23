@@ -1,4 +1,4 @@
-package exercicios.exercicio01;
+package exercicios.exerciciosDoCapitulo;
 
 import java.util.Locale;
 import java.util.concurrent.ThreadLocalRandom;

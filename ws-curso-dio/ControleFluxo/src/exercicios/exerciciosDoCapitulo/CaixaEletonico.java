@@ -1,4 +1,4 @@
-package exercicios.exercicio01;
+package exercicios.exerciciosDoCapitulo;
 
 public class CaixaEletonico {
 
