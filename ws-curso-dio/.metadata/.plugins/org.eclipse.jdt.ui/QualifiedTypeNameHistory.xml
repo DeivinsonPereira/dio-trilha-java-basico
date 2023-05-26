@@ -6,6 +6,6 @@
     <fullyQualifiedTypeName name="entities.ContaPoupanca"/>
     <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="entities.Cliente"/>
-    <fullyQualifiedTypeName name="entities.ContaCorrente"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="entities.ContaCorrente"/>
 </qualifiedTypeNameHistroy>
