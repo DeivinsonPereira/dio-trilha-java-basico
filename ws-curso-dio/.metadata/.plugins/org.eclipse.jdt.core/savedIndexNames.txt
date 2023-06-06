@@ -8,7 +8,7 @@ INDEX VERSION 1.131+C:\projetos\dio-trilha-java-basico\ws-curso-dio\.metadata\.p
 2285290922.index
 1644337496.index
 1535177651.index
-1371515002.index
-2583215806.index
-981024385.index
 2175250271.index
+1371515002.index
+981024385.index
+2583215806.index
