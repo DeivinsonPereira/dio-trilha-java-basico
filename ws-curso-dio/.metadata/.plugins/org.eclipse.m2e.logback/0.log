@@ -1257,3 +1257,32 @@ Caused by: java.lang.Exception: File not found: C:\projetos\dio-trilha-java-basi
 2023-06-07 23:29:16,105 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2023-06-07 23:29:16,110 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-06-07 23:29:16,111 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:09:56,877 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-06-08 22:49:39,314 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:49:39,514 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:49:39,522 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:49:39,523 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:53:01,574 [Worker-14: Launching EscolhendoAOrdemTeste] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:53:01,580 [Worker-14: Launching EscolhendoAOrdemTeste] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:53:01,585 [Worker-14: Launching EscolhendoAOrdemTeste] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:53:01,589 [Worker-14: Launching EscolhendoAOrdemTeste] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:55:55,200 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:55:55,201 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:55:55,206 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:55:55,208 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:55:59,937 [Worker-16: Launching EscolhendoAOrdemTeste] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:55:59,938 [Worker-16: Launching EscolhendoAOrdemTeste] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:55:59,946 [Worker-16: Launching EscolhendoAOrdemTeste] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:55:59,947 [Worker-16: Launching EscolhendoAOrdemTeste] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:56:33,282 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:56:33,283 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:56:33,287 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:56:33,288 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:56:46,072 [Worker-19: Launching EscolhendoAOrdemTeste] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:56:46,073 [Worker-19: Launching EscolhendoAOrdemTeste] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:56:46,077 [Worker-19: Launching EscolhendoAOrdemTeste] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:56:46,079 [Worker-19: Launching EscolhendoAOrdemTeste] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:58:24,570 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:58:24,571 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-08 22:58:24,576 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-08 22:58:24,577 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
