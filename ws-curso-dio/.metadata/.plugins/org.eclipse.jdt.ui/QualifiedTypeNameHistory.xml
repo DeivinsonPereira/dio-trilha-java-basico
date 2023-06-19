@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="javax.management.openmbean.OpenMBeanAttributeInfo"/>
-    <fullyQualifiedTypeName name="java.text.DateFormat"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="java.io.FileWriter"/>
-    <fullyQualifiedTypeName name="java.io.FileReader"/>
     <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
     <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
     <fullyQualifiedTypeName name="java.io.BufferedReader"/>
@@ -52,12 +47,17 @@
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
     <fullyQualifiedTypeName name="java.lang.IllegalStateException"/>
-    <fullyQualifiedTypeName name="org.mockito.ArgumentMatchers"/>
-    <fullyQualifiedTypeName name="org.junit.jupiter.api.extension.ExtendWith"/>
-    <fullyQualifiedTypeName name="org.mockito.junit.jupiter.MockitoExtension"/>
     <fullyQualifiedTypeName name="org.mockito.InjectMocks"/>
-    <fullyQualifiedTypeName name="org.mockito.Mockito"/>
     <fullyQualifiedTypeName name="org.mockito.Captor"/>
     <fullyQualifiedTypeName name="com.mockito.exemplos.captor.Email"/>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Assertions"/>
+    <fullyQualifiedTypeName name="org.mockito.internal.matchers.Any"/>
+    <fullyQualifiedTypeName name="org.mockito.ArgumentMatchers"/>
+    <fullyQualifiedTypeName name="java.util.SplittableRandom"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.extension.ExtendWith"/>
+    <fullyQualifiedTypeName name="org.mockito.junit.jupiter.MockitoExtension"/>
+    <fullyQualifiedTypeName name="org.mockito.MockedStatic"/>
+    <fullyQualifiedTypeName name="org.mockito.Mockito"/>
+    <fullyQualifiedTypeName name="com.mockito.exemplos.metodosEstaticos.GeradorDeNumeros"/>
 </qualifiedTypeNameHistroy>
